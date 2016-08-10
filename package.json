@@ -1,0 +1,39 @@
+{
+  "name": "react-native-yandexmetrica",
+  "version": "0.0.1",
+  "description": "A wrapper around the Yandex Metrica SDK for React Native apps",
+  "homepage": "https://github.com/rubyroyd/react-native-yandexmetrica",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubyroyd/react-native-yandexmetrica.git"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "yandex",
+    "metrica"
+  ],
+  "author": {
+    "name": "Ilya Ramanenia",
+    "url": "https://github.com/rubyroyd"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubyroyd/react-native-yandexmetrica/issues"
+  },
+  "gitHead": "8e80612340d9d53f1f9b46835d61b57824e67703",
+  "readme": "A wrapper around the Yandex metrica SDK for React Native apps",
+  "readmeFilename": "README.md",
+  "_id": "react-native-yandexmetrica@0.0.1",
+  "_shasum": "",
+  "_from": "git+https://github.com/rubyroyd/react-native-yandexmetrica.git",
+  "_resolved": "git+https://github.com/rubyroyd/react-native-yandexmetrica.git#8e80612340d9d53f1f9b46835d61b57824e67703"
+}
