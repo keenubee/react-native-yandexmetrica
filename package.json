@@ -29,11 +29,11 @@
   "bugs": {
     "url": "https://github.com/rubyroyd/react-native-yandexmetrica/issues"
   },
-  "gitHead": "8e80612340d9d53f1f9b46835d61b57824e67703",
+  "gitHead": "9ef2ab11e9be9f6515b848212d9d96c7852dff27",
   "readme": "A wrapper around the Yandex metrica SDK for React Native apps",
   "readmeFilename": "README.md",
   "_id": "react-native-yandexmetrica@0.0.1",
   "_shasum": "",
   "_from": "git+https://github.com/rubyroyd/react-native-yandexmetrica.git",
-  "_resolved": "git+https://github.com/rubyroyd/react-native-yandexmetrica.git#8e80612340d9d53f1f9b46835d61b57824e67703"
+  "_resolved": "git+https://github.com/rubyroyd/react-native-yandexmetrica.git#9ef2ab11e9be9f6515b848212d9d96c7852dff27"
 }
