@@ -25,7 +25,6 @@ public class YandexMetricaPackage implements ReactPackage {
         return Arrays.<NativeModule>asList(new YandexMetricaModule(reactContext));
     }
 
-    @Override
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
